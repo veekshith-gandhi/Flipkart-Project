@@ -2,13 +2,13 @@
 
 # Flipkart - Clone
 
-## Project : Clone of https://www.flipkart.com/
+## Project : Clone of https://www.flipkart.com
 
 ## What is Flipkart?
 
-As you might have seen https://www.flipkart.com/ ,it is the most prominent eCommerce website in India and is empowering tons of Indian businesses to venture into the competitive online shopping industry.
+As you might have seen https://www.flipkart.com ,it is the most prominent eCommerce website in India and is empowering tons of Indian businesses to venture into the competitive online shopping industry.
 
-In this project we have tried to make a clone of https://www.flipkart.com/ website with our efforts and the technology stack which we learnt till now in masai school.
+In this project we have tried to make a clone of https://www.flipkart.com website with our efforts and the technology stack which we learnt till now in masai school.
 
 # Technology Stack Used
 
@@ -57,7 +57,7 @@ Here, you can see all the products and whenever you hover on any product you wil
 
 Here, you can see all of your products which are added into cart, you can avail the discount by applyling the promocode in respective field and you can remove any product from here also.
 
-## Address Page
+## Product Detail Page
 
 ![ProductDetails](https://i.imgur.com/sLDZTpr.png)
 
