@@ -6,7 +6,7 @@
 
 ## What is Flipkart?
 
-As you might have seen https://www.flipkart.com/, it is the most prominent eCommerce website in India and is empowering tons of Indian businesses to venture into the competitive online shopping industry.
+As you might have seen https://www.flipkart.com/ ,it is the most prominent eCommerce website in India and is empowering tons of Indian businesses to venture into the competitive online shopping industry.
 
 In this project we have tried to make a clone of https://www.flipkart.com/ website with our efforts and the technology stack which we learnt till now in masai school.
 
