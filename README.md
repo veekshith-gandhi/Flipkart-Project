@@ -2,7 +2,7 @@
 
 # Flipkart - Clone
 
-## Project : Clone of www.flipkart.com
+## Project : Clone of flipkart.com
 
 ## What is Flipkart?
 
