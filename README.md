@@ -1,4 +1,4 @@
-![imagelink](https://www.freepnglogos.com/uploads/flipkart-logo-png/flipkart-logo-transparent-vector-3.png)
+![imagelink](https://www.freepnglogos.com/uploads/flipkart-logo-png/flipkart-com-logo-internet-ltd-state-of-kerala-10.png)
 
 # Flipkart - Clone
 
