@@ -29,7 +29,7 @@ All the images, icons, and links have taken from the original website (https://w
 
 ## Landing Page
 
-![LandingPage](static/images/LandingPage.png)
+![LandingPage](https://i.imgur.com/ce6qQjM.png)
 
 This is the landing page of our website. You can see and choose all latest and trending top products from here.
 
