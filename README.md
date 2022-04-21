@@ -29,21 +29,15 @@ All the images, icons, and links have taken from the original website (https://w
 
 ## Landing Page
 
-![LandingPage](https://i.imgur.com/ce6qQjM.png)
+![LandingPage](https://i.imgur.com/WOfBkR4.png)
 
 This is the landing page of our website. You can see and choose all latest and trending top products from here.
 
 ## SignUp Page
 
-![SignUpPage](static/images/SignupPage.png)
+![SignUpPage](https://i.imgur.com/r0Nvgge.png)
 
 You can signup with our website from here .
-
-## Login Page
-
-![LoginPage](static/images/LoginPage.png)
-
-You can login to our website from here by entering required details.
 
 ## Navigation Bar
 
