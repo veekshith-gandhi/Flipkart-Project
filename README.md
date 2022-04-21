@@ -41,13 +41,13 @@ You can signup with our website from here .
 
 ## Navigation Bar
 
-![NavBar](static/images/NavigationBar.png)
+![NavBar](https://i.imgur.com/Kd6Q83G.png)
 
 Here, you can choose a category of products whatever you want.
 
 ## Products Page
 
-![ProductsPage](https://i.imgur.com/sLDZTpr.png)
+![ProductsPage](https://i.imgur.com/icK5TK1.png)
 
 Here, you can see all the products and whenever you hover on any product you will see ADD TO CART option, bu clicking the button you can add the products to cart.
 
@@ -59,9 +59,9 @@ Here, you can see all of your products which are added into cart, you can avail 
 
 ## Address Page
 
-![AddressPage](static/images/AddressPage.png)
+![ProductDetails](https://i.imgur.com/sLDZTpr.png)
 
-In this page you can add your address to where your product should be delivered.
+In this page you can see the product specification and details.
 
 ## Payment Page
 
