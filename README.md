@@ -1,70 +1,103 @@
-# Getting Started with Create React App
+![imagelink](https://www.freepnglogos.com/uploads/flipkart-logo-png/flipkart-logo-transparent-vector-3.png)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Flipkart - Clone
 
-## Available Scripts
+## Project : Clone of https://www.flipkart.com/
 
-In the project directory, you can run:
+## What is Flipkart?
 
-### `npm start`
+As you might have seen https://www.flipkart.com/, it is the most prominent eCommerce website in India and is empowering tons of Indian businesses to venture into the competitive online shopping industry.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+In this project we have tried to make a clone of https://www.flipkart.com/ website with our efforts and the technology stack which we learnt till now in masai school.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+# Technology Stack Used
 
-### `npm test`
+In this project we have used the following tech stack.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+- HTML
+- CSS
+- JAVASCRIPT
+- REACT
+- REDUX
 
-### `npm run build`
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+# Libraries Used
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+All the images, icons, and links have taken from the original website (https://www.flipkart.com/)
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+# Snapshots of Our Project 📸
 
-### `npm run eject`
+## Landing Page
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+![LandingPage](static/images/LandingPage.png)
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+This is the landing page of our website. You can see and choose all latest and trending top products from here.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+## SignUp Page
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+![SignUpPage](static/images/SignupPage.png)
 
-## Learn More
+You can signup with our website from here .
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+## Login Page
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+![LoginPage](static/images/LoginPage.png)
 
-### Code Splitting
+You can login to our website from here by entering required details.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+## Navigation Bar
 
-### Analyzing the Bundle Size
+![NavBar](static/images/NavigationBar.png)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+Here, you can choose a category of products whatever you want.
 
-### Making a Progressive Web App
+## Products Page
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+![ProductsPage](static/images/ProductPage.png)
 
-### Advanced Configuration
+Here, you can see all the products and whenever you hover on any product you will see ADD TO CART option, bu clicking the button you can add the products to cart.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+## Cart Page
 
-### Deployment
+![CartPage](static/images/CartPage.png)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+Here, you can see all of your products which are added into cart, you can avail the discount by applyling the promocode in respective field and you can remove any product from here also.
 
-### `npm run build` fails to minify
+## Address Page
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+![AddressPage](static/images/AddressPage.png)
+
+In this page you can add your address to where your product should be delivered.
+
+## Payment Page
+
+![PaymentPage](static/images/PaymentPage.png)
+
+You can see lot of payment options here and you can choose any one of them to pay for your product.
+
+## Summary Page
+
+![ThankyouPage](static/images/SummaryPage.png)
+
+Finally, Here you can see your order details and summary and by clicking continue you will be redirected to home page and you can continue the shopping.
+
+# Limitations
+
+Home page is fully responsive but remaining pages are not responsive yet , those pages are might not be properly visible on small screen devices.
+
+# End Notes
+
+In this project we have tried to a perfect clone of the original website as much as possible with very limited knowledge of front-end .
+This entire journey of making the project was awesome. We learned lots of things by applying to the real website and it gave us a lot of confidence.
+
+# Team Members 🤝🏻
+
+We have a team of 2 members :
+
+1. Aiswarya R
+
+   GitHub: (https://github.com/Aiswaryaraja1996)
+
+2. NM Veekshith Gandhi
+
+   GitHub: (https://github.com/veekshith-gandhi)
