@@ -29,13 +29,13 @@ All the images, icons, and links have taken from the original website (https://w
 
 ## Landing Page
 
-![LandingPage](https://i.imgur.com/WOfBkR4.png)
+![LandingPage](https://i.imgur.com/Kd6Q83G.png)
 
 This is the landing page of our website. You can see and choose all latest and trending top products from here.
 
 ## SignUp Page
 
-![SignUpPage](https://i.imgur.com/r0Nvgge.png)
+![SignUpPage](https://i.imgur.com/X3HYqOd.png)
 
 You can signup with our website from here .
 
@@ -47,13 +47,13 @@ Here, you can choose a category of products whatever you want.
 
 ## Products Page
 
-![ProductsPage](static/images/ProductPage.png)
+![ProductsPage](https://i.imgur.com/sLDZTpr.png)
 
 Here, you can see all the products and whenever you hover on any product you will see ADD TO CART option, bu clicking the button you can add the products to cart.
 
 ## Cart Page
 
-![CartPage](static/images/CartPage.png)
+![CartPage](https://i.imgur.com/zZNuhCg.png)
 
 Here, you can see all of your products which are added into cart, you can avail the discount by applyling the promocode in respective field and you can remove any product from here also.
 
@@ -65,13 +65,13 @@ In this page you can add your address to where your product should be delivered.
 
 ## Payment Page
 
-![PaymentPage](static/images/PaymentPage.png)
+![PaymentPage](https://i.imgur.com/InXtwsp.png)
 
 You can see lot of payment options here and you can choose any one of them to pay for your product.
 
 ## Summary Page
 
-![ThankyouPage](static/images/SummaryPage.png)
+![ThankyouPage](https://i.imgur.com/KN20lSu.png)
 
 Finally, Here you can see your order details and summary and by clicking continue you will be redirected to home page and you can continue the shopping.
 
